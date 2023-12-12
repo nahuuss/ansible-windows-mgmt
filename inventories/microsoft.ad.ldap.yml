@@ -9,6 +9,6 @@ plugin: microsoft.ad.ldap
 # password:
 ### End custom credential type ###
 
-search_base: OU=Computers,OU=lab,DC=autodotes,DC=local
+search_base: OU=Servers,OU=BizLand,DC=bizland,DC=tech
 
 # see plugin documentation for additional configuration properties for filtering, grouping, etc.
